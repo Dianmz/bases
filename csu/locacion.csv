@@ -1,0 +1,661 @@
+padre,hijo
+kanto,Route 1
+kanto,Route 2
+kanto,Route 3
+kanto,Route 4
+kanto,Route 5
+kanto,Route 6
+kanto,Route 7
+kanto,Route 8
+kanto,Route 9
+kanto,Route 10
+kanto,Route 11
+kanto,Route 12
+kanto,Route 13
+kanto,Route 14
+kanto,Route 15
+kanto,Route 16
+kanto,Route 17
+kanto,Route 18
+kanto,Route 19
+kanto,Route 20
+kanto,Route 21
+kanto,Route 22
+kanto,Route 23
+kanto,Route 24
+kanto,Route 25
+kanto,Route 26
+kanto,Route 27
+kanto,Route 28
+kanto,Berry Forest
+kanto,Bond Bridge
+kanto,Canyon Entrance
+kanto,Cape Brink
+kanto,Celadon City
+kanto,Cerulean Cave
+kanto,Cerulean City
+kanto,Cinnabar Island
+kanto,Diglett's Cave
+kanto,Dotted Hole
+kanto,Five Island
+kanto,Five Isle Meadow
+kanto,Four Island
+kanto,Fuchsia City
+kanto,Green Path
+kanto,Icefall Cave
+kanto,Indigo Plateau
+kanto,Kindle Road
+kanto,Lavender Town
+kanto,Lost Cave
+kanto,Memorial Pillar
+kanto,Mt. Ember
+kanto,Mt. Moon
+kanto,Navel Rock
+kanto,One Island
+kanto,Outcast Island
+kanto,Pallet Town
+kanto,Pattern Bush
+kanto,Pewter City
+kanto,Pokémon Mansion
+kanto,Pokémon Tower
+kanto,Power Plant
+kanto,Resort Gorgeous
+kanto,Roaming Kanto
+kanto,Rock Tunnel
+kanto,Rocket Hideout
+kanto,Rocket Warehouse
+kanto,Ruin Valley
+kanto,Safari Zone
+kanto,Saffron City
+kanto,Seafoam Islands
+kanto,Sevault Canyon
+kanto,Seven Island
+kanto,Silph Co.
+kanto,Six Island
+kanto,SS Anne
+kanto,Tanoby Ruins
+kanto,Three Island
+kanto,Three Isle Path
+kanto,Three Isle Port
+kanto,Tohjo Falls
+kanto,Trainer Tower
+kanto,Treasure Beach
+kanto,Two Island
+kanto,Underground Path 5-6
+kanto,Underground Path 7-8
+kanto,Vermilion City
+kanto,Victory Road
+kanto,Viridian City
+kanto,Viridian Forest
+kanto,Water Labyrinth
+kanto,Water Path
+johto,Route 29
+johto,Route 30
+johto,Route 31
+johto,Route 32
+johto,Route 33
+johto,Route 34
+johto,Route 35
+johto,Route 36
+johto,Route 37
+johto,Route 38
+johto,Route 39
+johto,Route 40
+johto,Route 41
+johto,Route 42
+johto,Route 43
+johto,Route 44
+johto,Route 45
+johto,Route 46
+johto,Route 47
+johto,Route 48
+johto,Azalea Town
+johto,Battle Frontier
+johto,Bell Tower
+johto,Bellchime Trail
+johto,Blackthorn City
+johto,Burned Tower
+johto,Cherrygrove City
+johto,Cianwood City
+johto,Cliff Cave
+johto,Cliff Edge Gate
+johto,Dark Cave
+johto,Dragon's Den
+johto,Ecruteak City
+johto,Embedded Tower
+johto,Frontier Access
+johto,Glitter Lighthouse
+johto,Goldenrod City
+johto,Goldenrod Radio Tower
+johto,Goldenrod Underground
+johto,Ice Path
+johto,Ilex Forest
+johto,Lake of Rage
+johto,Mahogany Town
+johto,Mt. Mortar
+johto,Mt. Silver
+johto,National Park
+johto,New Bark Town
+johto,Olivine City
+johto,Pokéathlon Dome
+johto,Roaming Johto
+johto,Ruins of Alph
+johto,Safari Zone Gate
+johto,Sinjoh Ruins
+johto,Slowpoke Well
+johto,Sprout Tower
+johto,SS Aqua
+johto,Team Rocket HQ
+johto,Tin Tower
+johto,Union Cave
+johto,Violet City
+johto,Whirl Islands
+hoenn,Route 101
+hoenn,Route 102
+hoenn,Route 103
+hoenn,Route 104
+hoenn,Route 105
+hoenn,Route 106
+hoenn,Route 107
+hoenn,Route 108
+hoenn,Route 109
+hoenn,Route 110
+hoenn,Route 111
+hoenn,Route 112
+hoenn,Route 113
+hoenn,Route 114
+hoenn,Route 115
+hoenn,Route 116
+hoenn,Route 117
+hoenn,Route 118
+hoenn,Route 119
+hoenn,Route 120
+hoenn,Route 121
+hoenn,Route 122
+hoenn,Route 123
+hoenn,Route 124
+hoenn,Route 125
+hoenn,Route 126
+hoenn,Route 127
+hoenn,Route 128
+hoenn,Route 129
+hoenn,Route 130
+hoenn,Route 131
+hoenn,Route 132
+hoenn,Route 133
+hoenn,Route 134
+hoenn,Abandoned Ship
+hoenn,Altering Cave
+hoenn,Artisan Cave
+hoenn,Battle Frontier
+hoenn,Battle Resort
+hoenn,Battle Tower
+hoenn,Birth Island
+hoenn,Cave of Origin
+hoenn,Desert Underpass
+hoenn,Dewford Town
+hoenn,Ever Grande City
+hoenn,Fallarbor Town
+hoenn,Faraway Island
+hoenn,Fiery Path
+hoenn,Fortree City
+hoenn,Granite Cave
+hoenn,Jagged Pass
+hoenn,Lavaridge Town
+hoenn,Lilycove City
+hoenn,Littleroot Town
+hoenn,Marine Cave
+hoenn,Mauville City
+hoenn,Meteor Falls
+hoenn,Mirage Island
+hoenn,Mirage Spots
+hoenn,Mirage Tower
+hoenn,Mossdeep City
+hoenn,Mt. Chimney
+hoenn,Mt. Pyre
+hoenn,New Mauville
+hoenn,Oldale Town
+hoenn,Pacifidlog Town
+hoenn,Petalburg City
+hoenn,Petalburg Woods
+hoenn,Roaming Hoenn
+hoenn,Rustboro City
+hoenn,Rusturf Tunnel
+hoenn,Safari Zone
+hoenn,Scorched Slab
+hoenn,Sea Mauville
+hoenn,Seafloor Cavern
+hoenn,Sealed Chamber
+hoenn,Shoal Cave
+hoenn,Sky Pillar
+hoenn,Slateport City
+hoenn,Sootopolis City
+hoenn,Southern Island
+hoenn,SS Tidal
+hoenn,Team Magma/Aqua Hideout
+hoenn,Terra Cave
+hoenn,Trainer Hill
+hoenn,Verdanturf Town
+hoenn,Victory Road
+sinnoh,Route 201
+sinnoh,Route 202
+sinnoh,Route 203
+sinnoh,Route 204
+sinnoh,Route 205
+sinnoh,Route 206
+sinnoh,Route 207
+sinnoh,Route 208
+sinnoh,Route 209
+sinnoh,Route 210
+sinnoh,Route 211
+sinnoh,Route 212
+sinnoh,Route 213
+sinnoh,Route 214
+sinnoh,Route 215
+sinnoh,Route 216
+sinnoh,Route 217
+sinnoh,Route 218
+sinnoh,Route 219
+sinnoh,Route 220
+sinnoh,Route 221
+sinnoh,Route 222
+sinnoh,Route 223
+sinnoh,Route 224
+sinnoh,Route 225
+sinnoh,Route 226
+sinnoh,Route 227
+sinnoh,Route 228
+sinnoh,Route 229
+sinnoh,Route 230
+sinnoh,Acuity Lakefront
+sinnoh,Amity Square
+sinnoh,Battle Frontier
+sinnoh,Battle Park
+sinnoh,Canalave City
+sinnoh,Celestic Town
+sinnoh,Distortion World
+sinnoh,Eterna City
+sinnoh,Eterna Forest
+sinnoh,Eterna Galactic Building
+sinnoh,Fight Area
+sinnoh,Floaroma Meadow
+sinnoh,Floaroma Town
+sinnoh,Flower Paradise
+sinnoh,Fuego Ironworks
+sinnoh,Fullmoon Island
+sinnoh,Galactic Warehouse
+sinnoh,Grand Lake Hotel
+sinnoh,Great Marsh
+sinnoh,Hall of Origin
+sinnoh,Hearthome City
+sinnoh,Iron Island
+sinnoh,Jubilife City
+sinnoh,Lake Acuity
+sinnoh,Lake Valor
+sinnoh,Lake Verity
+sinnoh,Lost Tower
+sinnoh,Maniac Tunnel
+sinnoh,Mt. Coronet
+sinnoh,Newmoon Island
+sinnoh,Old Chateau
+sinnoh,Oreburgh City
+sinnoh,Oreburgh Gate
+sinnoh,Oreburgh Mine
+sinnoh,Pal Park
+sinnoh,Pastoria City
+sinnoh,Pokémon League
+sinnoh,Pokémon Mansion
+sinnoh,Ravaged Path
+sinnoh,Resort Area
+sinnoh,Roaming Sinnoh
+sinnoh,Sandgem Town
+sinnoh,Seabreak Path
+sinnoh,Sendoff Spring
+sinnoh,Snowpoint City
+sinnoh,Snowpoint Temple
+sinnoh,Solaceon Ruins
+sinnoh,Solaceon Town
+sinnoh,Spear Pillar
+sinnoh,Stark Mountain
+sinnoh,Sunyshore City
+sinnoh,Survival Area
+sinnoh,Trophy Garden
+sinnoh,Turnback Cave
+sinnoh,Twinleaf Town
+sinnoh,Valley Windworks
+sinnoh,Valor Lakefront
+sinnoh,Veilstone City
+sinnoh,Veilstone Galactic Building
+sinnoh,Verity Lakefront
+sinnoh,Victory Road
+sinnoh,Wayward Cave
+unova,Route 1
+unova,Route 2
+unova,Route 3
+unova,Route 4
+unova,Route 5
+unova,Route 6
+unova,Route 7
+unova,Route 8
+unova,Route 9
+unova,Route 10
+unova,Route 11
+unova,Route 12
+unova,Route 13
+unova,Route 14
+unova,Route 15
+unova,Route 16
+unova,Route 17
+unova,Route 18
+unova,Route 19
+unova,Route 20
+unova,Route 21
+unova,Route 22
+unova,Route 23
+unova,Abundant Shrine
+unova,Accumula Town
+unova,Anville Town
+unova,Aspertia City
+unova,Battle Subway
+unova,Black City
+unova,Castelia City
+unova,Castelia Sewers
+unova,Cave of Being
+unova,Celestial Tower
+unova,Challenger's Cave
+unova,Chargestone Cave
+unova,Clay Tunnel
+unova,Cold Storage
+unova,Desert Resort
+unova,Dragonspiral Tower
+unova,Dreamyard
+unova,Driftveil City
+unova,Driftveil Drawbridge
+unova,Floccesy Ranch
+unova,Floccesy Town
+unova,Gear Station
+unova,Giant Chasm
+unova,High Link
+unova,Humilau City
+unova,Icirrus City
+unova,Lacunosa Town
+unova,Lentimas Town
+unova,Liberty Island
+unova,Lostlorn Forest
+unova,Marine Tube
+unova,Marvelous Bridge
+unova,Mistralton Cave
+unova,Mistralton City
+unova,Moor of Icirrus
+unova,N's Castle
+unova,Nacrene City
+unova,Nature Preserve
+unova,Nature Sanctuary
+unova,Nimbasa City
+unova,Nuvema Town
+unova,Opelucid City
+unova,P2 Laboratory
+unova,Pinwheel Forest
+unova,Plasma Frigate
+unova,Pledge Grove
+unova,Pokémon League
+unova,Pokémon World Tournament
+unova,Relic Castle
+unova,Relic Passage
+unova,Reversal Mountain
+unova,Roaming Unova
+unova,Seaside Cave
+unova,Skyarrow Bridge
+unova,Strange House
+unova,Striaton City
+unova,Tubeline Bridge
+unova,Twist Mountain
+unova,Undella Bay
+unova,Undella Town
+unova,Underground Ruins
+unova,Undersea Ruins
+unova,Unity Tower
+unova,Victory Road
+unova,Village Bridge
+unova,Virbank City
+unova,Virbank Complex
+unova,Wellspring Cave
+unova,White Forest
+kalos,Route 1
+kalos,Route 2
+kalos,Route 3
+kalos,Route 4
+kalos,Route 5
+kalos,Route 6
+kalos,Route 7
+kalos,Route 8
+kalos,Route 9
+kalos,Route 10
+kalos,Route 11
+kalos,Route 12
+kalos,Route 13
+kalos,Route 14
+kalos,Route 15
+kalos,Route 16
+kalos,Route 17
+kalos,Route 18
+kalos,Route 19
+kalos,Route 20
+kalos,Route 21
+kalos,Route 22
+kalos,Ambrette Town
+kalos,Anistar City
+kalos,Aquacorde Town
+kalos,Azure Bay
+kalos,Battle Chateau
+kalos,Battle Maison
+kalos,Camphrier Town
+kalos,Chamber of Emptiness
+kalos,Connecting Cave
+kalos,Coumarine City
+kalos,Couriway Town
+kalos,Cyllage City
+kalos,Dendemille Town
+kalos,Flare Cafe
+kalos,Frost Cavern
+kalos,Geosenge Town
+kalos,Glittering Cave
+kalos,Kalos Power Plant
+kalos,Kiloude City
+kalos,Laverre City
+kalos,Lost Hotel
+kalos,Lumiose City
+kalos,Parfum Palace
+kalos,Poké Ball Factory
+kalos,Pokémon League
+kalos,Pokémon Village
+kalos,Reflection Cave
+kalos,Roaming Kalos
+kalos,Santalune City
+kalos,Santalune Forest
+kalos,Sea Spirit's Den
+kalos,Shalour City
+kalos,Snowbelle City
+kalos,Team Flare HQ
+kalos,Terminus Cave
+kalos,Tower of Mastery
+kalos,Unknown Dungeon
+kalos,Vaniville Town
+kalos,Victory Road
+alola,Route 1
+alola,Route 2
+alola,Route 3
+alola,Route 4
+alola,Route 5
+alola,Route 6
+alola,Route 7
+alola,Route 8
+alola,Route 9
+alola,Route 10
+alola,Route 11
+alola,Route 12
+alola,Route 13
+alola,Route 14
+alola,Route 15
+alola,Route 16
+alola,Route 17
+alola,Aether Paradise
+alola,Akala Outskirts
+alola,Altar of the Moone
+alola,Altar of the Sunne
+alola,Ancient Poni Path
+alola,Battle Royal Dome
+alola,Battle Tree
+alola,Berry Fields
+alola,Big Wave Beach
+alola,Blush Mountain
+alola,Brooklet Hill
+alola,Diglett's Tunnel
+alola,Dividing Peak Tunnel
+alola,Exeggutor Island
+alola,Haina Desert
+alola,Hano Beach
+alola,Hano Grand Resort
+alola,Hau'oli Cemetery
+alola,Hau'oli City
+alola,Heahea Beach
+alola,Heahea City
+alola,Hokulani Observatory
+alola,Iki Town
+alola,Kala'e Bay
+alola,Konikoni City
+alola,Lake of the Moone
+alola,Lake of the Sunne
+alola,Lush Jungle
+alola,Mahalo Trail
+alola,Malie City
+alola,Malie Garden
+alola,Megalo Tower
+alola,Melemele Meadow
+alola,Melemele Sea
+alola,Memorial Hill
+alola,Mount Hokulani
+alola,Mount Lanakila
+alola,Paniola Ranch
+alola,Paniola Town
+alola,Pikachu Valley
+alola,Plains Grotto
+alola,Po Town
+alola,Poké Pelago
+alola,Pokémon League
+alola,Poni Beach
+alola,Poni Breaker Coast
+alola,Poni Coast
+alola,Poni Gauntlet
+alola,Poni Grove
+alola,Poni Meadow
+alola,Poni Plains
+alola,Poni Wilds
+alola,Resolution Cave
+alola,Royal Avenue
+alola,Ruins of Abundance
+alola,Ruins of Conflict
+alola,Ruins of Hope
+alola,Ruins of Life
+alola,Sandy Cave
+alola,Seafolk Village
+alola,Seaward Cave
+alola,Secluded Shore
+alola,Shady House
+alola,Tapu Village
+alola,Team Rocket's Castle
+alola,Ten Carat Hill
+alola,Thrifty Megamart
+alola,Ula'ula Beach
+alola,Ula'ula Meadow
+alola,Ultra Megalopolis
+alola,Ultra Space
+alola,Ultra Space Wilds
+alola,Vast Poni Canyon
+alola,Verdant Cavern
+alola,Wela Volcano Park
+galar,Route 1
+galar,Route 2
+galar,Route 3
+galar,Route 4
+galar,Route 5
+galar,Route 6
+galar,Route 7
+galar,Route 8
+galar,Route 9
+galar,Route 10
+galar,Axew's Eye
+galar,Ballimere Lake
+galar,Ballonlea
+galar,Battle Tower
+galar,Brawlers' Cave
+galar,Bridge Field
+galar,Challenge Beach
+galar,Challenge Road
+galar,Circhester
+galar,Courageous Cavern
+galar,Crown Shrine
+galar,Dappled Grove
+galar,Dusty Bowl
+galar,Dyna Tree Hill
+galar,East Lake Axewell
+galar,Fields of Honor
+galar,Forest of Focus
+galar,Freezington
+galar,Frigid Sea
+galar,Frostpoint Field
+galar,Galar Mine
+galar,Galar Mine No. 2
+galar,Giant's Bed
+galar,Giant's Cap
+galar,Giant's Foot
+galar,Giant's Mirror
+galar,Giant's Seat
+galar,Glimwood Tangle
+galar,Hammerlocke
+galar,Hammerlocke Hills
+galar,Honeycalm Island
+galar,Honeycalm Sea
+galar,Hulbury
+galar,Iceberg Ruins
+galar,Insular Sea
+galar,Iron Ruins
+galar,Lake of Outrage
+galar,Lakeside Cave
+galar,Loop Lagoon
+galar,Master Dojo
+galar,Max Lair
+galar,Motostoke
+galar,Motostoke Outskirts
+galar,Motostoke Riverbank
+galar,North Lake Miloch
+galar,Old Cemetery
+galar,Path to the Peak
+galar,Postwick
+galar,Potbottom Desert
+galar,Roaring-Sea Caves
+galar,Rock Peak Ruins
+galar,Rolling Fields
+galar,Slippery Slope
+galar,Slumbering Weald
+galar,Snowslide Slope
+galar,Soothing Wetlands
+galar,South Lake Miloch
+galar,Spikemuth
+galar,Split-Decision Ruins
+galar,Steamdrift Way
+galar,Stepping-Stone Sea
+galar,Stony Wilderness
+galar,Stow-on-Side
+galar,Three-Point Pass
+galar,Tower of Darkness
+galar,Tower of Waters
+galar,Training Lowlands
+galar,Tunnel to the Top
+galar,Turffield
+galar,Warm-Up Tunnel
+galar,Watchtower Ruins
+galar,Wedgehurst
+galar,West Lake Axewell
+galar,Workout Sea
+galar,Wyndon

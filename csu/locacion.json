@@ -1,0 +1,2642 @@
+[
+    {
+        "padre": "kanto",
+        "hijo": "Route 1"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 2"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 3"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 4"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 5"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 6"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 7"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 8"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 9"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 10"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 11"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 12"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 13"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 14"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 15"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 16"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 17"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 18"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 19"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 20"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 21"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 22"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 23"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 24"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 25"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 26"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 27"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Route 28"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Berry Forest"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Bond Bridge"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Canyon Entrance"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Cape Brink"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Celadon City"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Cerulean Cave"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Cerulean City"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Cinnabar Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Diglett's Cave"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Dotted Hole"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Five Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Five Isle Meadow"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Four Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Fuchsia City"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Green Path"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Icefall Cave"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Indigo Plateau"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Kindle Road"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Lavender Town"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Lost Cave"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Memorial Pillar"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Mt. Ember"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Mt. Moon"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Navel Rock"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "One Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Outcast Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Pallet Town"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Pattern Bush"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Pewter City"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Pokémon Mansion"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Pokémon Tower"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Power Plant"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Resort Gorgeous"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Roaming Kanto"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Rock Tunnel"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Rocket Hideout"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Rocket Warehouse"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Ruin Valley"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Safari Zone"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Saffron City"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Seafoam Islands"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Sevault Canyon"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Seven Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Silph Co."
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Six Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "SS Anne"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Tanoby Ruins"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Three Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Three Isle Path"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Three Isle Port"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Tohjo Falls"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Trainer Tower"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Treasure Beach"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Two Island"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Underground Path 5-6"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Underground Path 7-8"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Vermilion City"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Victory Road"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Viridian City"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Viridian Forest"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Water Labyrinth"
+    },
+    {
+        "padre": "kanto",
+        "hijo": "Water Path"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 29"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 30"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 31"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 32"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 33"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 34"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 35"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 36"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 37"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 38"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 39"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 40"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 41"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 42"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 43"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 44"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 45"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 46"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 47"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Route 48"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Azalea Town"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Battle Frontier"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Bell Tower"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Bellchime Trail"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Blackthorn City"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Burned Tower"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Cherrygrove City"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Cianwood City"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Cliff Cave"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Cliff Edge Gate"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Dark Cave"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Dragon's Den"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Ecruteak City"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Embedded Tower"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Frontier Access"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Glitter Lighthouse"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Goldenrod City"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Goldenrod Radio Tower"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Goldenrod Underground"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Ice Path"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Ilex Forest"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Lake of Rage"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Mahogany Town"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Mt. Mortar"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Mt. Silver"
+    },
+    {
+        "padre": "johto",
+        "hijo": "National Park"
+    },
+    {
+        "padre": "johto",
+        "hijo": "New Bark Town"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Olivine City"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Pokéathlon Dome"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Roaming Johto"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Ruins of Alph"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Safari Zone Gate"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Sinjoh Ruins"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Slowpoke Well"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Sprout Tower"
+    },
+    {
+        "padre": "johto",
+        "hijo": "SS Aqua"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Team Rocket HQ"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Tin Tower"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Union Cave"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Violet City"
+    },
+    {
+        "padre": "johto",
+        "hijo": "Whirl Islands"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 101"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 102"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 103"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 104"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 105"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 106"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 107"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 108"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 109"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 110"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 111"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 112"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 113"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 114"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 115"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 116"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 117"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 118"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 119"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 120"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 121"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 122"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 123"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 124"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 125"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 126"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 127"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 128"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 129"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 130"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 131"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 132"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 133"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Route 134"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Abandoned Ship"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Altering Cave"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Artisan Cave"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Battle Frontier"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Battle Resort"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Battle Tower"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Birth Island"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Cave of Origin"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Desert Underpass"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Dewford Town"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Ever Grande City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Fallarbor Town"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Faraway Island"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Fiery Path"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Fortree City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Granite Cave"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Jagged Pass"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Lavaridge Town"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Lilycove City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Littleroot Town"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Marine Cave"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Mauville City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Meteor Falls"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Mirage Island"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Mirage Spots"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Mirage Tower"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Mossdeep City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Mt. Chimney"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Mt. Pyre"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "New Mauville"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Oldale Town"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Pacifidlog Town"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Petalburg City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Petalburg Woods"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Roaming Hoenn"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Rustboro City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Rusturf Tunnel"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Safari Zone"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Scorched Slab"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Sea Mauville"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Seafloor Cavern"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Sealed Chamber"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Shoal Cave"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Sky Pillar"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Slateport City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Sootopolis City"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Southern Island"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "SS Tidal"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Team Magma/Aqua Hideout"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Terra Cave"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Trainer Hill"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Verdanturf Town"
+    },
+    {
+        "padre": "hoenn",
+        "hijo": "Victory Road"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 201"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 202"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 203"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 204"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 205"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 206"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 207"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 208"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 209"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 210"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 211"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 212"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 213"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 214"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 215"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 216"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 217"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 218"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 219"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 220"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 221"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 222"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 223"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 224"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 225"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 226"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 227"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 228"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 229"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Route 230"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Acuity Lakefront"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Amity Square"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Battle Frontier"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Battle Park"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Canalave City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Celestic Town"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Distortion World"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Eterna City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Eterna Forest"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Eterna Galactic Building"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Fight Area"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Floaroma Meadow"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Floaroma Town"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Flower Paradise"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Fuego Ironworks"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Fullmoon Island"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Galactic Warehouse"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Grand Lake Hotel"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Great Marsh"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Hall of Origin"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Hearthome City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Iron Island"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Jubilife City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Lake Acuity"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Lake Valor"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Lake Verity"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Lost Tower"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Maniac Tunnel"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Mt. Coronet"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Newmoon Island"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Old Chateau"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Oreburgh City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Oreburgh Gate"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Oreburgh Mine"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Pal Park"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Pastoria City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Pokémon League"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Pokémon Mansion"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Ravaged Path"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Resort Area"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Roaming Sinnoh"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Sandgem Town"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Seabreak Path"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Sendoff Spring"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Snowpoint City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Snowpoint Temple"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Solaceon Ruins"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Solaceon Town"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Spear Pillar"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Stark Mountain"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Sunyshore City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Survival Area"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Trophy Garden"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Turnback Cave"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Twinleaf Town"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Valley Windworks"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Valor Lakefront"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Veilstone City"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Veilstone Galactic Building"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Verity Lakefront"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Victory Road"
+    },
+    {
+        "padre": "sinnoh",
+        "hijo": "Wayward Cave"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 1"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 2"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 3"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 4"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 5"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 6"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 7"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 8"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 9"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 10"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 11"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 12"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 13"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 14"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 15"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 16"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 17"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 18"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 19"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 20"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 21"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 22"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Route 23"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Abundant Shrine"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Accumula Town"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Anville Town"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Aspertia City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Battle Subway"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Black City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Castelia City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Castelia Sewers"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Cave of Being"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Celestial Tower"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Challenger's Cave"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Chargestone Cave"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Clay Tunnel"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Cold Storage"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Desert Resort"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Dragonspiral Tower"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Dreamyard"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Driftveil City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Driftveil Drawbridge"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Floccesy Ranch"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Floccesy Town"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Gear Station"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Giant Chasm"
+    },
+    {
+        "padre": "unova",
+        "hijo": "High Link"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Humilau City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Icirrus City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Lacunosa Town"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Lentimas Town"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Liberty Island"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Lostlorn Forest"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Marine Tube"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Marvelous Bridge"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Mistralton Cave"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Mistralton City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Moor of Icirrus"
+    },
+    {
+        "padre": "unova",
+        "hijo": "N's Castle"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Nacrene City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Nature Preserve"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Nature Sanctuary"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Nimbasa City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Nuvema Town"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Opelucid City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "P2 Laboratory"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Pinwheel Forest"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Plasma Frigate"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Pledge Grove"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Pokémon League"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Pokémon World Tournament"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Relic Castle"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Relic Passage"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Reversal Mountain"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Roaming Unova"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Seaside Cave"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Skyarrow Bridge"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Strange House"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Striaton City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Tubeline Bridge"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Twist Mountain"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Undella Bay"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Undella Town"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Underground Ruins"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Undersea Ruins"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Unity Tower"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Victory Road"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Village Bridge"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Virbank City"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Virbank Complex"
+    },
+    {
+        "padre": "unova",
+        "hijo": "Wellspring Cave"
+    },
+    {
+        "padre": "unova",
+        "hijo": "White Forest"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 1"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 2"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 3"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 4"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 5"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 6"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 7"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 8"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 9"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 10"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 11"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 12"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 13"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 14"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 15"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 16"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 17"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 18"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 19"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 20"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 21"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Route 22"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Ambrette Town"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Anistar City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Aquacorde Town"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Azure Bay"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Battle Chateau"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Battle Maison"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Camphrier Town"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Chamber of Emptiness"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Connecting Cave"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Coumarine City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Couriway Town"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Cyllage City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Dendemille Town"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Flare Cafe"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Frost Cavern"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Geosenge Town"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Glittering Cave"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Kalos Power Plant"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Kiloude City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Laverre City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Lost Hotel"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Lumiose City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Parfum Palace"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Poké Ball Factory"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Pokémon League"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Pokémon Village"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Reflection Cave"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Roaming Kalos"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Santalune City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Santalune Forest"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Sea Spirit's Den"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Shalour City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Snowbelle City"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Team Flare HQ"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Terminus Cave"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Tower of Mastery"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Unknown Dungeon"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Vaniville Town"
+    },
+    {
+        "padre": "kalos",
+        "hijo": "Victory Road"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 1"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 2"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 3"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 4"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 5"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 6"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 7"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 8"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 9"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 10"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 11"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 12"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 13"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 14"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 15"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 16"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Route 17"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Aether Paradise"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Akala Outskirts"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Altar of the Moone"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Altar of the Sunne"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ancient Poni Path"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Battle Royal Dome"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Battle Tree"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Berry Fields"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Big Wave Beach"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Blush Mountain"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Brooklet Hill"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Diglett's Tunnel"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Dividing Peak Tunnel"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Exeggutor Island"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Haina Desert"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Hano Beach"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Hano Grand Resort"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Hau'oli Cemetery"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Hau'oli City"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Heahea Beach"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Heahea City"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Hokulani Observatory"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Iki Town"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Kala'e Bay"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Konikoni City"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Lake of the Moone"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Lake of the Sunne"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Lush Jungle"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Mahalo Trail"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Malie City"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Malie Garden"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Megalo Tower"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Melemele Meadow"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Melemele Sea"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Memorial Hill"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Mount Hokulani"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Mount Lanakila"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Paniola Ranch"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Paniola Town"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Pikachu Valley"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Plains Grotto"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Po Town"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poké Pelago"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Pokémon League"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poni Beach"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poni Breaker Coast"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poni Coast"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poni Gauntlet"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poni Grove"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poni Meadow"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poni Plains"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Poni Wilds"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Resolution Cave"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Royal Avenue"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ruins of Abundance"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ruins of Conflict"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ruins of Hope"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ruins of Life"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Sandy Cave"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Seafolk Village"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Seaward Cave"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Secluded Shore"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Shady House"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Tapu Village"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Team Rocket's Castle"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ten Carat Hill"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Thrifty Megamart"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ula'ula Beach"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ula'ula Meadow"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ultra Megalopolis"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ultra Space"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Ultra Space Wilds"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Vast Poni Canyon"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Verdant Cavern"
+    },
+    {
+        "padre": "alola",
+        "hijo": "Wela Volcano Park"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 1"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 2"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 3"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 4"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 5"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 6"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 7"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 8"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 9"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Route 10"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Axew's Eye"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Ballimere Lake"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Ballonlea"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Battle Tower"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Brawlers' Cave"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Bridge Field"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Challenge Beach"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Challenge Road"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Circhester"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Courageous Cavern"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Crown Shrine"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Dappled Grove"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Dusty Bowl"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Dyna Tree Hill"
+    },
+    {
+        "padre": "galar",
+        "hijo": "East Lake Axewell"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Fields of Honor"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Forest of Focus"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Freezington"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Frigid Sea"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Frostpoint Field"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Galar Mine"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Galar Mine No. 2"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Giant's Bed"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Giant's Cap"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Giant's Foot"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Giant's Mirror"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Giant's Seat"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Glimwood Tangle"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Hammerlocke"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Hammerlocke Hills"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Honeycalm Island"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Honeycalm Sea"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Hulbury"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Iceberg Ruins"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Insular Sea"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Iron Ruins"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Lake of Outrage"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Lakeside Cave"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Loop Lagoon"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Master Dojo"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Max Lair"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Motostoke"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Motostoke Outskirts"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Motostoke Riverbank"
+    },
+    {
+        "padre": "galar",
+        "hijo": "North Lake Miloch"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Old Cemetery"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Path to the Peak"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Postwick"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Potbottom Desert"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Roaring-Sea Caves"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Rock Peak Ruins"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Rolling Fields"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Slippery Slope"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Slumbering Weald"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Snowslide Slope"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Soothing Wetlands"
+    },
+    {
+        "padre": "galar",
+        "hijo": "South Lake Miloch"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Spikemuth"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Split-Decision Ruins"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Steamdrift Way"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Stepping-Stone Sea"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Stony Wilderness"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Stow-on-Side"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Three-Point Pass"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Tower of Darkness"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Tower of Waters"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Training Lowlands"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Tunnel to the Top"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Turffield"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Warm-Up Tunnel"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Watchtower Ruins"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Wedgehurst"
+    },
+    {
+        "padre": "galar",
+        "hijo": "West Lake Axewell"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Workout Sea"
+    },
+    {
+        "padre": "galar",
+        "hijo": "Wyndon"
+    }
+]

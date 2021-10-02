@@ -1,0 +1,134 @@
+<script>
+function pokedex() {
+    let doc = document.getElementById("pokedex")
+    var vv = "["
+    for (var i = 1, row; row = doc.rows[i]; i++) {
+        //alert(cell[i].innerText);
+        var valor = "{"
+
+        for (var j = 0, col; col = row.cells[j]; j++) {
+            //alert(col[j].innerText);
+            if (j == 0) {
+                valor += '"Id" : "' + col.innerText + '",'
+            } else if (j == 1) {
+                var bug = col.innerText.split('\n')
+                valor += '"Name":"'
+                for (let x = 0; x < bug.length; x++) {
+                    valor +=  bug[x]
+                    if (x != bug.length - 1) {
+                        valor += ','
+                    }
+                }
+                valor += '",'
+            } else if (j == 2) {
+                
+                var bug = col.innerText.split('\n')
+                valor += '"Tipo":"'
+                for (let x = 0; x < bug.length; x++) {
+                    valor +=  bug[x]
+                    if (x != bug.length - 1) {
+                        valor += ','
+                    }
+                }
+                valor += '",'
+            } else if (j == 3) {
+                valor += '"Total" : ' + col.innerText + ','
+            } else if (j == 4) {
+                valor += '"HP" : ' + col.innerText + ','
+            } else if (j == 5) {
+                valor += '"Attack" : ' + col.innerText + ','
+            } else if (j == 6) {
+                valor += '"Defense" : ' + col.innerText + ','
+            } else if (j == 7) {
+                valor += '"SPAtk" : ' + col.innerText + ','
+            } else if (j == 8) {
+                valor += '"SPDef" : ' + col.innerText + ','
+            } else if (j == 9) {
+                valor += '"Speed" : ' + col.innerText + '},'
+            }
+
+        }
+        vv += '\n' + valor
+    }
+    vv += ']'
+   console.log(vv.replace(',]',']'))
+
+}
+function movimientos(){
+    let doc = document.getElementById("moves")
+    var vv = "["
+    var categorias = []
+    for (var i = 1, row; row = doc.rows[i]; i++) {
+        //alert(cell[i].innerText);
+        var valor = "{"
+
+        for (var j = 0, col; col = row.cells[j]; j++) {
+            //alert(col[j].innerText);
+            if (j == 0) {
+                valor += '"Name" : "' + col.innerText + '",'
+            } else if (j == 1) {
+                valor += '"Type" : "' + col.innerText + '",'
+            } else if (j == 2) {
+                var titulo = col.innerHTML
+                titulo = titulo.replace('<img class="img-fixed" src="https://img.pokemondb.net/images/icons/move-status.png" width="30" height="20" alt="Status" title="','')
+                titulo = titulo.replace('<img class="img-fixed" src="https://img.pokemondb.net/images/icons/move-physical.png" width="30" height="20" alt="Physical" title="','')
+                titulo = titulo.replace('<img class="img-fixed" src="https://img.pokemondb.net/images/icons/move-special.png" width="30" height="20" alt="Special" title="','')
+                titulo = titulo.replace('" loading="lazy">','')
+                
+                if(!categorias.includes(titulo)){
+                    categorias.push(titulo)
+                }
+                valor += '"Cat" : "' + titulo + '",'
+            } else if (j == 3) {
+                valor += '"Power" : "' + col.innerText + '",'
+            } else if (j == 4) {
+                valor += '"Acc" : "' + col.innerText + '",'
+            } else if (j == 5) {
+                valor += '"PP" : "' + col.innerText + '",'
+            } else if (j == 6) {
+                valor += '"TM" : "' + col.innerText + '",'
+            } else if (j == 7) {
+                valor += '"Effect" : "' + col.innerText + '",'
+            } else if (j == 8) {
+                valor += '"Prob" : "' + col.innerText + '"},'
+            }
+
+        }
+        vv += '\n' + valor
+    }
+    vv += ']'
+    console.log(vv.replace(',]',']'))
+    vv = "["
+    for(let x of categorias){
+        vv +='{"Nombre":"' + x +'"},' 
+    }
+    vv += ']'
+    console.log(vv.replace(',]',']'))
+   
+}
+
+function abilities(){
+    let doc = document.getElementById("abilities")
+    var vv = "["
+    for (var i = 1, row; row = doc.rows[i]; i++) {
+        //alert(cell[i].innerText);
+        var valor = "{"
+
+        for (var j = 0, col; col = row.cells[j]; j++) {
+            //alert(col[j].innerText);
+            if (j == 0) {
+                valor += '"Name" : "' + col.innerText + '",'
+            } else if (j == 1) {
+                valor += '"Pokemon" : "' + col.innerText + '",'
+            } else if (j == 2) {
+                valor += '"Description" : "' + col.innerText + '",'
+            } else if (j == 3) {
+                valor += '"Gen" : "' + col.innerText + '"},'
+            } 
+        }
+        vv += '\n' + valor
+    }
+    vv += ']'
+    console.log(vv.replace(',]',']'))
+}
+</script>
